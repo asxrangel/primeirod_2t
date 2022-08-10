@@ -6,7 +6,7 @@ h1 {
 }
 .caixa1 {
     position: absolute;
-    background: #3f0c0c;
+    background: #3b0b17;
     color: #FFFFFF;
     width: 200px;
     height: 200px;
@@ -16,7 +16,7 @@ h1 {
 
 .caixa2 {
     position: absolute;
-    background: rgb(83, 20, 20);
+    background: #610b21;
     color: #FFFFFF;
     width: 200px;
     height: 200px;
@@ -26,7 +26,7 @@ h1 {
 
 .caixa3 {
     position: absolute;
-    background: rgb(87, 5, 5);
+    background: #2a0a12;
     color: #FFFFFF;
     width: 200px;
     height: 200px;
@@ -35,9 +35,9 @@ h1 {
 }
 .menuPrincipal {
    position: relative;
-   background: rgb(168, 75, 75);
+   background: #b40431;
    width: 100%;
    height: 120px;
    top: 0;
-   color: rgb(255, 255, 255);
+   color: #FFFFFF;
 }
