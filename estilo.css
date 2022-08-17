@@ -1,12 +1,12 @@
 body {
-  background: #FFFFFF;
+  background: #fafafa;
 }
 h1 {
   text-align: center;
 }
 .caixa1 {
     position: absolute;
-    background: #4a3583;
+    background: #3f0c03;
     color: #FFFFFF;
     width: 200px;
     height: 200px;
@@ -16,7 +16,7 @@ h1 {
 
 .caixa2 {
     position: absolute;
-    background: rgb(118, 51, 150);
+    background: rgb(83, 20, 20);
     color: #FFFFFF;
     width: 200px;
     height: 200px;
@@ -26,7 +26,7 @@ h1 {
 
 .caixa3 {
     position: absolute;
-    background: rgb(57, 7, 138);
+    background: rgb(87, 5, 5);
     color: #FFFFFF;
     width: 200px;
     height: 200px;
@@ -35,34 +35,35 @@ h1 {
 }
 .menuPrincipal {
    position: relative;
-   background: rgb(141, 77, 177);
+   background: rgb(168, 75, 75);
    width: 100%;
    height: 45px;
    top: 0;
+   left: 0;
    color: rgb(255, 255, 255);
 }
-nav ul {
+nav ul{
   list-style-type: none;
   margin: 0%;
   padding: 0%;
-  overflow: 0;
+  overflow: 0%;
 }
-li {
+li{
   float: left;
 }
 li a {
   display: block;
-  color: rgb(0, 0, 0);
+  color: black;
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
   font-family: Georgia, 'Times New Roman', Times, serif;
 }
 li a:hover {
-  background: rgb(160, 137, 213);
-  color: rgb(255, 255, 255); 
+  background: rgb(157, 74, 212);
+  color: #FFFFFF;
 }
-#aviao.png {
+#aviao {
   width: 20%;
 }
 .caixaAviao {
@@ -71,9 +72,9 @@ li a:hover {
   left: 0;
   width: 90%;
   height: 150px;
-  background:rgb(233, 233, 224);
+  background:rgb(242, 242, 239);
   margin: 20px;
-  border-color: rgb(90, 41, 159);
+  border-color: rgb(199, 61, 61);
   border-width: 20px;
   border-style: solid;
   padding: 20px;
